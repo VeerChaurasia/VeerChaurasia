@@ -2,7 +2,7 @@
 - I am a Full Stack Web Developer
 - 👀 I’m interested in Blockchain Development and Low level Development
 - 🌱 I’m currently learning Application of Rust and GoLang in Blockchain 
-- 📫 How to reach me: Email-veer_c@ch.iitr.ac.in
+- 📫 How to reach me: Email- veer_c@ch.iitr.ac.in
 
 
 <!---
