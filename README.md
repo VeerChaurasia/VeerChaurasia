@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veer Chaurasia From IIT ROORKEE</h1>
 <h3 align="center">I am a Full Stack Web Developer</h3>
 
-- 🔭 I’m Interested In **Blockchain Developement and Low Level Developement**
+- 🔭 I’m Interested In **Blockchain and Low Level Developement**
 
 - 🌱 I’m currently learning **Applications of Rust and GoLang In developement**
 
