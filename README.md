@@ -5,6 +5,9 @@
 
 - 🌱 I’m currently learning **Applications of Rust and GoLang In development**
 - Currently I am working on Selene-A Light Client for Ethereum
+- Winner in Nethermind Track at ETHONLINE | Finalist in Based India Buildathon | Won Polygon and Socket Track at ETHIndia'24
+
+
 
 - 📫 How to reach me **veer_c@ch.iitr.ac.in**
 
