@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veer Chaurasia From IIT ROORKEE</h1>
-<h3 align="center">I am a Full Stack Web Developer</h3>
+<h3 align="center">I am a Full Stack Developer</h3>
 
 - 🔭 I’m Interested In **Blockchain and Low Level Development**
 
