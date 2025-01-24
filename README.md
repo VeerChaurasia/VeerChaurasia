@@ -4,8 +4,8 @@
 - 🔭 I’m Interested In **Blockchain and Low Level Development**
 
 - 🌱 I’m currently learning About **Distributed Systems and Applications of Rust and GoLang In development**
-- Currently I am working on Selene-A Light Client for Ethereum
-- Winner in Nethermind Track at ETHONLINE | Finalist in Based India Buildathon | Won Polygon and Socket Track at ETHIndia'24
+- Currently, I am working on Selene-A, a Light Client for Ethereum Implemented in Golang, and an on-chain game built on the DOJO game engine.
+- Winner in Nethermind Track at ETHONLINE | Finalist in Based India Buildathon | Won Polygon and Socket Track at ETHIndia'24 
 
 
 
