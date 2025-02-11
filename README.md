@@ -10,6 +10,9 @@
 
 
 - 📫 How to reach me **veer_c@ch.iitr.ac.in**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=veerchaurasia&show_icons=true&theme=onedark&title_color=77bb41&hide_border=true&locale=en" alt="veerchaurasia" /></p>
+
+
 
 
 
