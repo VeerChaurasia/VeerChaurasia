@@ -8,6 +8,8 @@
 ### Open Source Contributions
 - [reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+is%3Amerged+author%3AVeerChaurasia) (contributor)
 - [ream](https://github.com/ReamLabs/ream/pulls?q=is%3Apr+is%3Amerged+author%3AVeerChaurasia+) (contributor)
+### Blogs
+[BLS In Ethereum](https://open.substack.com/pub/0xpsuedo/p/understanding-bls-signatures-in-ethereum?r=5eqdgc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
 ### 🏆 Achievements
 
