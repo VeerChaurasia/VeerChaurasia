@@ -13,11 +13,11 @@
 ### Blogs
 - [Understanding BLS Signatures in Ethereum](https://open.substack.com/pub/0xpsuedo/p/understanding-bls-signatures-in-ethereum?r=5eqdgc&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 ### Notable Projects
-- [**Athena**](https://github.com/BlocSoc-iitr/Athena)-Blockchain data decoder in go
-- [**Selene**](https://github.com/BlocSoc-iitr/selene/tree/dev)-A fast & portable light client for Ethereum in Golang.
-- [**ZK_TRUST_AVS**](https://github.com/VeerChaurasia/AVS_HACK.git)-A AVS based on zkproofs where operator submits zkproof of their work initiated by user onchain
-- [**ChillQuest**](https://github.com/VeerChaurasia/ChillQuest)-An innovative multiplayer learning platform designed for crypto beginners to explore and master blockchain concepts through interactive quizzes and challenges
-- [**EtherZap**](https://github.com/ABD-AZE/EtherZap)-EtherZap is a proof-of-concept dApp showcasing the power of ERC-4337 account abstraction to enable seamless, gasless user transactions
+- [Athena](https://github.com/BlocSoc-iitr/Athena)-Blockchain data decoder in go
+- [Selene](https://github.com/BlocSoc-iitr/selene/tree/dev)-A fast & portable light client for Ethereum in Golang.
+- [ZK_TRUST_AVS](https://github.com/VeerChaurasia/AVS_HACK.git)-A AVS based on zkproofs where operator submits zkproof of their work initiated by user onchain
+- [ChillQuest](https://github.com/VeerChaurasia/ChillQuest)-An innovative multiplayer learning platform designed for crypto beginners to explore and master blockchain concepts through interactive quizzes and challenges
+- [EtherZap](https://github.com/ABD-AZE/EtherZap)-EtherZap is a proof-of-concept dApp showcasing the power of ERC-4337 account abstraction to enable seamless, gasless user transactions
 ### 🏆 Achievements
 
 - **Base India Buildathon** – Finalist  
