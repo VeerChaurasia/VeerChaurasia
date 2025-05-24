@@ -5,7 +5,7 @@
 - 🔭 Interested in **Blockchain** and **Low-Level Development**
 - 🌱 Currently exploring **Distributed Systems**, **Rust**, and **GoLang**
 - 🤝 Actively contributing to open-source projects in the blockchain ecosystem
-- 📫 Reach me at: **veer_c@ch.iitr.ac.in**
+- 📫 Reach me at: **veerchaurasia2005@gmail.com**
 
 ### Open Source Contributions
 - [reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+is%3Amerged+author%3AVeerChaurasia) (contributor)
